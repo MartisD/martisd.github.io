@@ -116,9 +116,8 @@ body {
     --bs-accordion-active-color: var(--bs-gray-700);
     --bs-accordion-color: var(--bs-white);
     --bs-accordion-bg: var(--bs-gray-700);
-    display: block;
     width: 62em;
-    
+    padding-bottom:50px;
     
 }
 
